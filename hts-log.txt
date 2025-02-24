@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Feb 2025 02:44:45 at https://digitalcub.today/services.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://digitalcub.today/services.html -O1 "C:\My Web Sites\paypal sign page" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:44:55	Error: 	"Read error when decompressing" (-1) at link https://digitalcub.today/index.php (from https://digitalcub.today/services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 10 links scanned, 8 files written (135713 bytes overall) [81140 bytes received at 8114 bytes/sec], 85436 bytes transferred using HTTP compression in 5 files, ratio 30%, 2.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
